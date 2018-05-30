@@ -1,2 +1,2 @@
 # Published-Research
-<p> A collection of published research papers. </p>
+<p> A collection of published research papers co-authored by me. </p>
